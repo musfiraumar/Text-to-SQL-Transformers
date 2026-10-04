@@ -101,5 +101,9 @@ generated text: select count <c5> where <c1> = 3
  <c1> attends most to source token '▁number' (weight 0.28) -> no match
 ```
 
+## Trained model
+- Weights (best.pt, 30 MB): https://huggingface.co/your-hf-username/text-to-sql-model
+- Live app: https://appapppy-48hmsqb6wehmuwiclhz7zz.streamlit.app
+
 ### Qualitative samples
 See [results/samples.md](results/samples.md).
